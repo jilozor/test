@@ -1,2 +1,4 @@
-chmod +x mytest.sh
-./mytest.sh
+nodejs --version
+npm -v
+pwd
+df
